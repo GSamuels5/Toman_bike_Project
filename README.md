@@ -19,5 +19,6 @@ Bike Share data (2021–2022)
 A 10–15% price increase is recommended instead of 25% to avoid demand drop.
 
 ## Dashboard Preview
-(Insert dashboard image here)
+
+<img width="1409" height="793" alt="Screenshot 2026-02-13 145138" src="https://github.com/user-attachments/assets/6a933ec5-96e5-484a-9ae5-8fc5f2e861ba" />
 
